@@ -1,0 +1,62 @@
+Pensamento computacional
+
+Decomposição - Segmentar um problema complexo em problemas menores para resolver.
+Analise – encontrar as partes pricipais quebrar e examinar os menores
+Síntese – combina os elementos recompondo o probelam original
+Sequencial ou paralelo – sequencial exite dependência entre as tarefas, pra resolver um vc precisa do outro resolvido.
+Paralelismo -  +eficiente – tempo, podem ser resolvidos comcomitantemente e depois agrupadas de forma que façam sentido.
+Treinar maneiras distintas de decompor o mesmo problema. 
+Identificar ou coletar dados – agregar os dados- funcionalidade.
+Exemplo de cozinhar. 
+PADRÕES = Econtrar semelhanças e diferenças 
+ABSTRAÇÃO= pbservar um ou mais elementos analisando suas características isolandamente
+Generalização – consiste em reunir uma classe 
+Torna-lo generalizado para que a solução possa ser usada em outros problemas
+Algoritmo =  receita para executarmos algo
+Busca binaria = + eficiente que busca por varredura
+1-ordena o vetor
+2-identifica o módulo de L/2 (l = tamanho do vetor)
+3-acessar a estrutura na posição em que encontrei pelo passo 2
+4-comparar valores
+5-repetir ate encontrar o valor
+6-imprimir que encontrou
+ 
+	Lógica de programação:
+Lógica é a organização e planejamento das instruções assertivas em um algoritmo a fim de resolver um  problema.
+Técnica linear – execução sequenciada (acordar, descer as escadas, preparar o café, tomar o cafezinho) 1 única dimensão
+Tecnica estruturada – podemos ter conduções, podemos ter mais de uma opção, ao invés de ter a opção de só fazer café, pode ser suco. 
+Tecnica modular – dados de entrada – processo de transformação – dados de saída 
+Definimos partes independendtes que são controladas por um conjunto de regras onde cada módulo tem suas regras específicas. 
+
+Variáveis = tipo de estrutura mutável, insconstante, pode receber mais de um valor e ser modificada. Ela não sabe  valor do que vai receber, mas sabe o tipo do dado.
+Tipos de dados = númerio (inteiros e reais )
+Caracteres =  ex: str
+Lógico = booleano
+O nome da variável segue algumas regras :
+1 ou mais caracteres 
+Primeira letra tem que ser LETRA
+Sem espaços em branco
+Vedado utilizar palavras reservadas de algumas linguagens
+Variavel vai ser se ação ou de controle
+Constante = é inalterável. = variável que não muda
+Instruções primitivas = dentro de cada linguagem de programação possui uma sintaxe particular
+Dados são importados de algum lugar, são processados e depois imprmidos de alguma forma.
+Estruturas condicionais e operadores = Dado uma condição que foi satisfeita a operação é executada. 
+Simples (se)
+Composta (senão)
+Encadeada (se não se)
+Estruturas de repetição = condição de parada 
+Exemplos: enquanto ... faça
+Repita... ate
+Para... de ... até... faça – for
+Vetores e matrizes =  vetor é uma sequencia de tipos de dados = uma variável que possui um tamanho pre fixado
+Matriz é uma tabela localizada com linhas e colunas
+Funções = modularização do programa
+Código mais claro
+Identificados por nomes e parâmetros = assinatura da função.
+Linguagem de programação =   
+1949 primeira linguagem – Assembly 
+Código fonte é traduzido ou interpretado. 
+Programa fonte – passa por um compilador- programa objeto – execução do programa = tradução
+Interpretação = código fonte é interpretado diretamente 
+Analise léxica: primeira fase da compilação 
